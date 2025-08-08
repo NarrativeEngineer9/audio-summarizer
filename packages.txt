@@ -1,9 +1,5 @@
-pkg-config
 ffmpeg
-libavformat-dev
-libavcodec-dev
-libavdevice-dev
-libavutil-dev
-libavfilter-dev
-libswscale-dev
-libswresample-dev
+build-essential
+gfortran
+libopenblas-dev
+liblapack-dev
